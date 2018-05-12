@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '5442'
     url: http://www.gutenberg.org/2009/agents/5442
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17441#Casaysayan-ng-Catotohanang-Buhay-ng-Haring-Clodeveo-at-Reyna-Clotilde-sa-Reyno-nang-Francia
 gutenberg_issued: '2006-01-01'
 gutenberg_type: Text
 identifiers:
