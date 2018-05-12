@@ -1,0 +1,28 @@
+_repo: Casaysayan-ng-Catotohanang-Buhay-ng-Haring-Clodeveo-at-Reyna-Clotilde-sa-Reyno-nang-Francia_17441
+_version: 0.1.0
+alternative_title: Kasaysayan ng Katotohanang Buhay ng Haring Clodeveo at Reyna Clotilde
+  sa Reyno nang Francia
+covers:
+- cover_type: archival
+  image_path: 17441-h/images/cover_t.jpg
+creator:
+  author:
+    agent_name: Ignacio, Cleto R.
+    gutenberg_agent_id: '5442'
+    url: http://www.gutenberg.org/2009/agents/5442
+description: ''
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17441'
+language: tl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tagalog language -- Texts'
+- !lcsh 'Tagalog poetry'
+- !lcc 'PL'
+title: Casaysayan ng Catotohanang Buhay ng Haring Clodeveo at Reyna Clotilde sa Reyno
+  nang Francia
+url: http://www.gutenberg.org/ebooks/17441
